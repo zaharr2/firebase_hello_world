@@ -64,3 +64,12 @@ node_modules/
 # dotenv environment variables file
 .env
 .idea/
+Будет удалено .firebaserc
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено firebase.json
+Будет удалено functions/.eslintrc.json
+Будет удалено functions/.gitignore
+Будет удалено functions/index.js
+Будет удалено functions/package-lock.json
+Будет удалено functions/package.json
